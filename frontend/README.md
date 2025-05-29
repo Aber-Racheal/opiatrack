@@ -106,7 +106,7 @@ If you'd like to contribute ideas or test features, feel free to open an issue o
 
 **Project Lead:** Racheal Aber
 📍 Lira, Northern Uganda  
-📧 yakub@example.com *(replace with real email if sharing publicly)*
+📧 rachealaberr@gmail.com 
 
 ---
 
